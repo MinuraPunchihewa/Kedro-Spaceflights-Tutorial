@@ -40,3 +40,7 @@ Have a look at the file `src/tests/test_run.py` for instructions on how to write
 ```
 kedro test
 ```
+
+## Related Projects
+
+- [Kedro Spaceflights Starter](https://github.com/quantumblacklabs/kedro-starter-spaceflights): The Kedro Spaceflights Starter Project.
