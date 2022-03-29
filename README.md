@@ -28,6 +28,11 @@ Run the default pipeline,
 kedro run
 ```
 
+To run a pipeline of choice,
+```
+kedro run --pipeline <pipeline_name>
+```
+
 ## Testing
 
 Have a look at the file `src/tests/test_run.py` for instructions on how to write your tests. You can run your tests as follows:
